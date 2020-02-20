@@ -1,0 +1,2 @@
+# Set the the line endings to lf, which works with the Linux Container and attached volume
+* text eof=lf
